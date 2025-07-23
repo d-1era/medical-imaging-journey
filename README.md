@@ -40,3 +40,5 @@ This course introduced me to the fundamental image formats used in the medical f
 ## 🔜 Next Goal
 - [ ] Start **Python for Digital Signal Processing (DSP) From Ground Up**
 
+📜 [View Certificate](./certificates/python-medical-imaging-certificate.pdf)
+
