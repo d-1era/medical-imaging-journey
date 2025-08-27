@@ -7,7 +7,7 @@ A personal journal to track my learning progress in medical imaging, Python prog
 ## 📚 Completed Courses / Projects
 
 - [Python for Medical Imaging for Beginners](courses/medical-imaging-basics.md)
-- [Python for Digital Signal Processing (DSP) From Ground Up](courses/DSP_from_ground_up.md)  
+- [Python for Digital Signal Processing (DSP) From Ground Up](courses/fir-iir-filters.md)  
   *(includes [Jupyter Notebook](notebooks/FIR_IIR_Filters.ipynb))*
 
 ---
