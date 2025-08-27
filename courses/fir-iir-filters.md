@@ -8,11 +8,10 @@
 ## 🧠 What I Learned
 - Fundamentals of **Digital Filters**
 - **FIR filter design**:
-  - Window method (Hamming, Hanning, Blackman, etc.)
+  - Window method
   - Least Squares method
 - **IIR filter design**:
   - Butterworth filters
-  - Bilinear transform approach
 - Comparison of FIR vs IIR: stability, efficiency, and phase response
 
 ---
@@ -29,7 +28,6 @@
 
 ## 💻 Code
 All implementations are in [FIR_IIR_Filters.ipynb](../notebooks/FIR_IIR_Filters.ipynb).  
-This includes design steps, frequency responses, and comparisons.
 
 ---
 
